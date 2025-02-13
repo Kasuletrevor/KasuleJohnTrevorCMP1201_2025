@@ -9,3 +9,6 @@
 *.lib
 *.ilk
 *.pdb
+
+# ignore all files in .vscode
+.vscode/*
