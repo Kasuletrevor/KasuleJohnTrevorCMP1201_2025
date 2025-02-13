@@ -1,0 +1,11 @@
+# Ignore all compiled executable files
+*.exe
+
+# Other C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.dll
+*.lib
+*.ilk
+*.pdb
